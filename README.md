@@ -51,6 +51,9 @@ some _secrets_ on the GitHub repo settings page; see: [./docs/github-actions-sec
 
 This file also describes the setup for Codecov
 
+
+[![codecov](https://codecov.io/gh/ucsb-cs156-s21/jpa03-sebastiananvari/branch/master/graph/badge.svg?token=jfGEeUaKqp)](https://codecov.io/gh/ucsb-cs156-s21/jpa03-sebastiananvari)
+
 ## Property file values
 
 This section serves as a quick reference for values found in these files: 
